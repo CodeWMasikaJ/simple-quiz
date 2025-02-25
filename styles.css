@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px; /* added padding for smaller screens */
+}
+
+.quiz-container {
+    text-align: center;
+    padding: 20px;
+    width: 90%; /* added width for smaller screens */
+    max-width: 600px; /* added max width to stop it from being too wide on large screens */
+}
+
+#options button {
+    margin: 10px;
+    padding: 8px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%; /* added width for smaller screens */
+}
+
+#next-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%; /* added width for smaller screens */
+}
+
+#score-container {
+    margin-top: 20px;
+    font-weight: bold;
+}
