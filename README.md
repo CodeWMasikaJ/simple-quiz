@@ -12,7 +12,7 @@ This is a basic quiz application built with HTML, CSS, and JavaScript. It presen
 ## Files
 
 * `index.html`: The HTML structure of the quiz.
-* `style.css`: The CSS styles for the quiz.
+* `styles.css`: The CSS styles for the quiz.
 * `script.js`: The JavaScript logic for the quiz.
 
 ## Contributing
